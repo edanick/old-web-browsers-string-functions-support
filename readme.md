@@ -30,8 +30,7 @@ A library to add support of string includes and replaceAll for old web browsers 
 console.log(includes('hello world', 'world'));
 ```
 
-**Result**:
-
+**Result**: <br />
 `true` 
 
 ## replaceAll
@@ -48,7 +47,7 @@ console.log(includes('hello world', 'world'));
 console.log(replaceAll('hello world world', 'world', 'friend'));
 ```
 
-**result**:
-
+**result**: <br />
 `hello friend friend`
+
 
